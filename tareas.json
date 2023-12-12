@@ -1,56 +1,43 @@
 [
-{
-    "id":"1010",
-    "isCompleted":false,
-    "description":"Hacer la cama"
-},
-
-{
-    "id":"1011",
-    "isCompleted":false,
-    "description":"Sacar al perro"
-},
-
-{
-    "id":"1012",
-    "isCompleted":false,
-    "description":"Lavar los platos"
-},
-
-{
-    "id":"1013",
-    "isCompleted":false,
-    "description":"Poner la lavadora"
-},
-
-{
-    "id":"1014",
-    "isCompleted":"true",
-    "description":"Desayunar"
-},
-
-{
-    "id":"1015",
-    "isCompleted":true,
-    "description":"Bañarse"
-},
-
-{
-    "id":"1016",
-    "isCompleted":true,
-    "description":"Lavarse los dientes"
-},
-
-{
-    "id":"1017",
-    "isCompleted":false,
-    "description":"salir a trabajar"
-}
+  {
+    "id": "1010",
+    "isCompleted": false,
+    "description": "Hacer la cama"
+  },
+  {
+    "id": "1011",
+    "isCompleted": false,
+    "description": "Sacar al perro"
+  },
+  {
+    "id": "1012",
+    "isCompleted": false,
+    "description": "Lavar los platos"
+  },
+  {
+    "id": "1013",
+    "isCompleted": false,
+    "description": "Poner la lavadora"
+  },
+  {
+    "id": "1014",
+    "isCompleted": "true",
+    "description": "Desayunar"
+  },
+  {
+    "id": "1015",
+    "isCompleted": true,
+    "description": "Bañarse"
+  },
+  {
+    "id": "1016",
+    "isCompleted": true,
+    "description": "Lavarse los dientes"
+  },
+  {
+    "id": "1017",
+    "isCompleted": false,
+    "description": "salir a trabajar"
+  },
+  null
 ]
-
-
-
-
-
-
-
